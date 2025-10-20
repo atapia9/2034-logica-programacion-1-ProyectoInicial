@@ -8,12 +8,13 @@ Resumen del análisis de ventas realizado sobre los datos de las tiendas present
 ### Contenido del repositorio
 
 - `analisis_tiendas_juan.ipynb` — Notebook principal con el análisis exploratorio, limpieza y visualizaciones.
-
+  
 /
 ├── img/
 │   └── (imágenes utilizadas en el sitio o reportes)
 ├── Análisis_tiendas_juan.ipynb
 ├── app.js
+├── index.html
 └── style.css
 
 img/
@@ -76,7 +77,9 @@ Resumo da análise de vendas presente neste repositório e entrega de uma recome
 │   └── (imagens utilizadas no site ou relatórios)
 ├── Análisis_tiendas_juan.ipynb
 ├── app.js
+├── index.html
 └── style.css
+
 
 📁 img/
 
