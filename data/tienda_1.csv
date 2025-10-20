@@ -1,0 +1,9 @@
+order_id,store,product,category,quantity,revenue,review_score,shipping_cost
+N-1001,Tienda Norte,Auriculares Bluetooth,Electrónica,3,450.0,4.8,12.5
+N-1002,Tienda Norte,Smartphone A,Electrónica,2,1200.0,4.6,18.2
+N-1003,Tienda Norte,Freidora de aire,Hogar,1,320.0,4.7,10.0
+N-1004,Tienda Norte,Set de pesas,Deportes,4,280.0,4.9,15.0
+N-1005,Tienda Norte,Licuadora Pro,Hogar,2,260.0,4.5,11.4
+N-1006,Tienda Norte,"Monitor 27""",Electrónica,1,680.0,4.6,19.7
+N-1007,Tienda Norte,Balón profesional,Deportes,3,150.0,4.4,9.5
+N-1008,Tienda Norte,Cafetera automática,Hogar,1,540.0,4.8,13.3

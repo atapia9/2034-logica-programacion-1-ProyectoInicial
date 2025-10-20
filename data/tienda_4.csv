@@ -1,0 +1,9 @@
+order_id,store,product,category,quantity,revenue,review_score,shipping_cost
+P-4001,Tienda Pacífico,Parlante portátil,Electrónica,2,160.0,3.5,28.0
+P-4002,Tienda Pacífico,Ventilador básico,Hogar,3,120.0,3.2,25.5
+P-4003,Tienda Pacífico,Plancha económica,Hogar,2,80.0,3.3,24.0
+P-4004,Tienda Pacífico,Set de vasos,Hogar,4,60.0,3.6,22.0
+P-4005,Tienda Pacífico,Mouse inalámbrico,Electrónica,3,105.0,3.4,26.5
+P-4006,Tienda Pacífico,Gorra deportiva,Deportes,5,90.0,3.1,20.0
+P-4007,Tienda Pacífico,Termo plástico,Hogar,4,70.0,3.0,21.5
+P-4008,Tienda Pacífico,Auriculares básicos,Electrónica,2,55.0,2.9,27.8
