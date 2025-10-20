@@ -7,9 +7,6 @@ Resumen del análisis de ventas realizado sobre los datos de las tiendas present
 
 ### Contenido del repositorio
 - `analisis_tiendas_juan.ipynb` — Notebook principal con el análisis exploratorio, limpieza y visualizaciones.
-- `Copia_de_analisis_tiendas_juan.ipynb` — Copia de trabajo.
-- `challenge1-data-science-latam-main/AluraStoreLatam.ipynb` — Notebook complementario.
-- `challenge1-data-science-latam-main/base-de-datos-challenge1-latam/` — Datos: `tienda_1 .csv`, `tienda_2.csv`, `tienda_3.csv`, `tienda_4.csv`.
 
 ### Resumen ejecutivo (basado en el análisis de ventas)
 - Existen variaciones significativas de desempeño entre tiendas: algunas con ventas consistentes y otras con baja venta y mayor estacionalidad.
@@ -43,9 +40,7 @@ Resumo da análise de vendas presente neste repositório e entrega de uma recome
 
 ### Conteúdo do repositório
 - `analisis_tiendas_juan.ipynb` — Notebook principal com análise exploratória, limpeza e visualizações.
-- `Copia_de_analisis_tiendas_juan.ipynb` — Cópia de trabalho.
-- `challenge1-data-science-latam-main/AluraStoreLatam.ipynb` — Notebook complementar.
-- `challenge1-data-science-latam-main/base-de-datos-challenge1-latam/` — Dados: `tienda_1 .csv`, `tienda_2.csv`, `tienda_3.csv`, `tienda_4.csv`.
+
 
 ### Resumo executivo (baseado na análise de vendas)
 - Há variações significativas de desempenho entre lojas: algumas com vendas estáveis e outras com vendas baixas e maior sazonalidade.
