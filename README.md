@@ -8,6 +8,33 @@ Resumen del análisis de ventas realizado sobre los datos de las tiendas present
 ### Contenido del repositorio
 - `analisis_tiendas_juan.ipynb` — Notebook principal con el análisis exploratorio, limpieza y visualizaciones.
 
+├── img/
+│   └── (imágenes utilizadas en el sitio o reportes)
+├── Análisis_tiendas_juan.ipynb
+├── app.js
+└── style.css
+
+img/
+
+Carpeta que contiene los recursos gráficos del proyecto: logotipos, íconos o visualizaciones exportadas.
+Su función es mantener organizados los elementos visuales que se integran en el dashboard o la presentación web.
+
+Análisis_tiendas_juan.ipynb
+
+Notebook en Jupyter que realiza el análisis de datos de las tiendas de Juan.
+Incluye código en Python para calcular métricas clave como facturación, productos más vendidos, costos de envío y evaluaciones de clientes.
+Este archivo representa la parte analítica del proyecto.
+
+app.js
+
+Archivo principal de JavaScript que controla la lógica del sitio o dashboard.
+Puede contener scripts para mostrar resultados del análisis, actualizar gráficos, procesar datos JSON y gestionar interactividad en la interfaz.
+
+style.css
+
+Archivo de estilos (CSS) que define la apariencia visual del proyecto: colores, tipografías, márgenes, animaciones y disposición general de los elementos.
+Garantiza una presentación coherente y profesional del contenido.
+
 ### Resumen ejecutivo (basado en el análisis de ventas)
 - Existen variaciones significativas de desempeño entre tiendas: algunas con ventas consistentes y otras con baja venta y mayor estacionalidad.
 - Se identificaron SKUs/categorías de alta rotación que concentran la mayor parte de las ventas, y SKUs de baja rotación que incrementan costos de inventario.
@@ -41,6 +68,32 @@ Resumo da análise de vendas presente neste repositório e entrega de uma recome
 ### Conteúdo do repositório
 - `analisis_tiendas_juan.ipynb` — Notebook principal com análise exploratória, limpeza e visualizações.
 
+├── img/
+│   └── (imagens utilizadas no site ou relatórios)
+├── Análisis_tiendas_juan.ipynb
+├── app.js
+└── style.css
+
+📁 img/
+
+Pasta que contém os recursos gráficos do projeto: logotipos, ícones ou visualizações exportadas.
+Sua função é manter organizados os elementos visuais integrados ao painel ou à apresentação web.
+
+Análisis_tiendas_juan.ipynb
+
+Notebook Jupyter responsável pela análise dos dados das lojas de Juan.
+Inclui código em Python para calcular métricas como faturamento, produtos mais vendidos, custos de envio e avaliações de clientes.
+Representa a parte analítica e técnica do projeto.
+
+app.js
+
+Arquivo principal de JavaScript que controla a lógica do site ou painel.
+Pode conter scripts para exibir resultados da análise, atualizar gráficos, processar dados JSON e gerenciar a interatividade da interface.
+
+style.css
+
+Arquivo de estilos (CSS) responsável pela aparência visual do projeto: cores, tipografia, margens, animações e layout geral dos elementos.
+Garante uma apresentação coerente e profissional do conteúdo.
 
 ### Resumo executivo (baseado na análise de vendas)
 - Há variações significativas de desempenho entre lojas: algumas com vendas estáveis e outras com vendas baixas e maior sazonalidade.
