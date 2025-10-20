@@ -6,8 +6,10 @@
 Resumen del análisis de ventas realizado sobre los datos de las tiendas presentes en este repositorio y entrega de una recomendación ejecutiva y acciones priorizadas basadas en dicho análisis.
 
 ### Contenido del repositorio
+
 - `analisis_tiendas_juan.ipynb` — Notebook principal con el análisis exploratorio, limpieza y visualizaciones.
 
+/
 ├── img/
 │   └── (imágenes utilizadas en el sitio o reportes)
 ├── Análisis_tiendas_juan.ipynb
@@ -66,8 +68,10 @@ Garantiza una presentación coherente y profesional del contenido.
 Resumo da análise de vendas presente neste repositório e entrega de uma recomendação executiva com ações prioritárias baseadas nessa análise.
 
 ### Conteúdo do repositório
+
 - `analisis_tiendas_juan.ipynb` — Notebook principal com análise exploratória, limpeza e visualizações.
 
+/
 ├── img/
 │   └── (imagens utilizadas no site ou relatórios)
 ├── Análisis_tiendas_juan.ipynb
