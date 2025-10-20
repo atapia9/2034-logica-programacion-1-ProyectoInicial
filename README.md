@@ -14,7 +14,6 @@ Resumen del análisis de ventas realizado sobre los datos de las tiendas present
 │   └── (imágenes utilizadas en el sitio o reportes)
 ├── Análisis_tiendas_juan.ipynb
 ├── app.js
-├── index.html
 └── style.css
 
 img/
@@ -77,11 +76,9 @@ Resumo da análise de vendas presente neste repositório e entrega de uma recome
 │   └── (imagens utilizadas no site ou relatórios)
 ├── Análisis_tiendas_juan.ipynb
 ├── app.js
-├── index.html
 └── style.css
 
-
-📁 img/
+img/
 
 Pasta que contém os recursos gráficos do projeto: logotipos, ícones ou visualizações exportadas.
 Sua função é manter organizados os elementos visuais integrados ao painel ou à apresentação web.
