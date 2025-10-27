@@ -1,0 +1,9 @@
+order_id,store,product,category,quantity,revenue,review_score,shipping_cost
+C-2001,Tienda Centro,Smartwatch Fit,Electrónica,4,520.0,4.3,17.5
+C-2002,Tienda Centro,Sartén de titanio,Hogar,3,210.0,4.1,12.8
+C-2003,Tienda Centro,Kit de toallas,Hogar,5,180.0,3.9,9.2
+C-2004,Tienda Centro,Teclado mecánico,Electrónica,2,260.0,4.4,16.0
+C-2005,Tienda Centro,Zapatillas running,Deportes,3,360.0,4.2,14.5
+C-2006,Tienda Centro,Lámpara LED,Hogar,2,90.0,4.0,8.5
+C-2007,Tienda Centro,Audífonos gamer,Electrónica,2,300.0,4.1,17.8
+C-2008,Tienda Centro,Colchón ortopédico,Hogar,1,750.0,4.5,21.0
